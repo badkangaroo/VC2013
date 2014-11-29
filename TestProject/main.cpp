@@ -24,13 +24,18 @@ public:
 	~someClass();
 	someClassStruct getClassStruct()
 	{
+		//new shit!
 		return someClassStructStruct;
+	}
+	void someThing()
+	{
+		return;
 	}
 };
 
 int main()
 {
-	int someInt = 0;
+	//damn man, this shit is fancy!
 	
 	std::cout << "hello world.";
 	return 0;
