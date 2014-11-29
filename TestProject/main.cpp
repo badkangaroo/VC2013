@@ -33,6 +33,8 @@ public:
 	}
 };
 
+
+//things are actually new in the latest version of VS!
 int main()
 {
 	//damn man, this shit is fancy!
